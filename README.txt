@@ -5,6 +5,8 @@ COMP4710 Project
 This solution contains the implementations of the CLARA and DBSCAN algorithms using 
 Microsoft Visual Studio, written in C#. 
 
+Project can be located on github https://github.com/umlian27/COMP4710
+
 CLARA:
 run...
 -Open the 'COMP4710.sln' file to open the solution that contains both CLARA and DBSCAN
