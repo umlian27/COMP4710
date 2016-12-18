@@ -1,0 +1,5 @@
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710_CLARA\COMP4710_CLARA\bin\Debug\COMP4710_CLARA.exe.config
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710_CLARA\COMP4710_CLARA\bin\Debug\COMP4710_CLARA.exe
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710_CLARA\COMP4710_CLARA\bin\Debug\COMP4710_CLARA.pdb
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710_CLARA\COMP4710_CLARA\obj\Debug\COMP4710_CLARA.exe
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710_CLARA\COMP4710_CLARA\obj\Debug\COMP4710_CLARA.pdb

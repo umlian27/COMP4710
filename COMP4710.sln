@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLARA", "COMP4710_CLARA\CLARA.csproj", "{18683690-2DE5-4333-AD61-08E036052009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSCAN", "DBSCAN\DBSCAN.csproj", "{1FF67F4D-8F88-433E-8338-5DDC56479676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18683690-2DE5-4333-AD61-08E036052009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18683690-2DE5-4333-AD61-08E036052009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18683690-2DE5-4333-AD61-08E036052009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18683690-2DE5-4333-AD61-08E036052009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF67F4D-8F88-433E-8338-5DDC56479676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF67F4D-8F88-433E-8338-5DDC56479676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF67F4D-8F88-433E-8338-5DDC56479676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF67F4D-8F88-433E-8338-5DDC56479676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710\DBSCAN\bin\Debug\DBSCAN.exe.config
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710\DBSCAN\bin\Debug\DBSCAN.exe
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710\DBSCAN\bin\Debug\DBSCAN.pdb
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710\DBSCAN\obj\Debug\DBSCAN.exe
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710\DBSCAN\obj\Debug\DBSCAN.pdb
+C:\Users\Derryck\Dropbox\School\COMP 4710\Project\COMP4710\DBSCAN\obj\Debug\DBSCAN.csprojResolveAssemblyReference.cache
